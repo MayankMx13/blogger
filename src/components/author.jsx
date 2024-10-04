@@ -1,9 +1,10 @@
 import Card from "./card"
 import {
-    FaInstagramSquare, FaYoutube
-    , FaXTwitter
-    , FaFacebook
+    FaInstagramSquare, FaYoutube, FaFacebook
 } from "react-icons/fa";
+
+import { FaXTwitter } from "react-icons/fa6";
+
 
 
 function Author() {
